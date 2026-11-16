@@ -59,7 +59,7 @@
 
 1. **ダウンロード**
 
-    Release 最新版 **Phoebe** をダウンロードします。以下のリンクからダウンロード可能です。  
+    Releaseタブから 最新版 **Phoebe** をダウンロードします。以下のリンクからダウンロード可能です。  <br>
     [最新版のダウンロード](https://github.com/yourusername/Phoebe/)
 
 <br>
@@ -122,7 +122,7 @@
       <div align="center">
         <a href="#">
           <img src="./assets/Config.png" width="450">
-          <h4>fig.2 GeoTIFF読み込み時のパラメータ</h4>
+          <h4>fig.3 GeoTIFF読み込み時のパラメータ</h4>
         </a>
       </div>
 
@@ -159,7 +159,7 @@
       <div align="center">
         <a href="#">
           <img src="./assets/Config.png" width="450">
-          <h4>fig.3 GeoTIFFのパラメータ</h4>
+          <h4>fig.4 GeoTIFFのパラメータ</h4>
         </a>
       </div>
 
@@ -168,7 +168,7 @@
 
 5. **Voxelオブジェクトの生成**
 
-      **Phoebe** は、GeoTIFF ファイルを解析し、地形データを Voxel オブジェクトに変換します。3Dビューワーで、立体的に生成した Voxel オブジェクトを確認できます。必要に応じて、プロパティリストからパラメータを再設定できます。  <br><br>
+      3Dビューワーで、立体的に生成した Voxel オブジェクトを確認できます。必要に応じて、プロパティリストからパラメータを再設定できます。  <br><br>
       なお、Unityで使用する場合は、生成した Voxel オブジェクトをエクスポートし、Unityプロジェクトにインポートしてください。以下に手順を示しています。
 
 
@@ -193,11 +193,11 @@
 
 3. **Voxelオブジェクトのインポート**
 
-   Unityのメニューの **Phoebe>** をクリックします。`参考` をクリックし、**Phoebe** で生成した Voxel オブジェクトが記録されている `CSV（**/Assets/PhoebeVoxelExport/Data/voxels.csv）` を選択します。これにより、VoxelオブジェクトがUnityのシーンにインポートされます。
+   Unityのメニューの **Phoebe>** をクリックします。`参照` をクリックし、**Phoebe** で生成した Voxel オブジェクトが記録されている `CSV（**/Assets/PhoebeVoxelExport/Data/voxels.csv）` を選択します。これにより、VoxelオブジェクトがUnityのシーンにインポートされます。
 
    <br>
 
-> [!WARNING]  
+> [!NOTE]  
 > PLATEAUの都市モデルと同じ座標系で表示するには、座標のオフセットが必要です。PLATEAT SDK の モデル Inspector に表示されるオフセット値を入力して下さい。推奨PLATEAUオフセットを以下に示します。
 
    ```
