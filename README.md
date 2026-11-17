@@ -1,5 +1,9 @@
 > Closed source code for **Phoebe**
 
+<a href="#">
+  <img src="https://img.shields.io/github/downloads/Sakamochanq/Phoebe/total" width="">
+</a>
+
 <br>
 
 <div align="center">
