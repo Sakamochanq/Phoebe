@@ -63,7 +63,7 @@
 1. **ダウンロード**
 
     Releaseタブから 最新版 **Phoebe** をダウンロードします。以下のリンクからダウンロード可能です。  <br>
-    [最新版のダウンロード](https://github.com/yourusername/Phoebe/)
+    [最新版のダウンロード](https://github.com/Sakamochanq/Phoebe/releases/tag/v2.4)
 
 <br>
 <br>
